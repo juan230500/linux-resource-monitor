@@ -1,6 +1,6 @@
 # Linux Resource Monitor
 
-![Linux Resource Monitor](https://via.placeholder.com/800x400?text=Linux+Resource+Monitor)
+![Linux Resource Monitor](linux-resource-monitor.png)
 
 ## Overview
 
